@@ -6,12 +6,12 @@
     <TypeScriptToolsVersion>3.5</TypeScriptToolsVersion>
   </PropertyGroup>
 
-  <ItemGroup>
+ <!--<ItemGroup>
     <Compile Remove="Areas\Admin\Data\**" />
     <Content Remove="Areas\Admin\Data\**" />
     <EmbeddedResource Remove="Areas\Admin\Data\**" />
     <None Remove="Areas\Admin\Data\**" />
-  </ItemGroup>
+  </ItemGroup>-->
 
   <ItemGroup>
     <PackageReference Include="Kentico.AspNetCore.LocalizedRouting" Version="1.0.0-beta1" />
